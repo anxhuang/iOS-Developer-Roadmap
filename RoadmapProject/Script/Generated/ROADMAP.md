@@ -11,7 +11,7 @@ Tapping on a link will take you to relevant materials.
                 - [ ] [`Blocks`](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/Blocks/RESOURCES.md)
                     - [ ] [Memory Management](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/Blocks/Memory_Management/RESOURCES.md)
                 - [ ] [KVC](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/KVC/RESOURCES.md)
-                - [ ] [KVO](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/KVO/RESOURCES.md)
+                - [x] [KVO](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/KVO/RESOURCES.md)
                 - [ ] [Toll-free bridging](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/Toll-free_bridging/RESOURCES.md)
                 - [ ] [`Runtime`](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/Runtime/RESOURCES.md)
                     - [ ] [Method messaging](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/Runtime/Method_messaging/RESOURCES.md)
@@ -30,17 +30,17 @@ Tapping on a link will take you to relevant materials.
             - [ ] [`Stack and Heap`](Resources/iOS_Developer/Practical_knowledge/Memory_management/Stack_and_Heap/RESOURCES.md)
             - [x] [`Value vs Reference type`](Resources/iOS_Developer/Practical_knowledge/Memory_management/Value_vs_Reference_type/RESOURCES.md)
             - [ ] [MRC](Resources/iOS_Developer/Practical_knowledge/Memory_management/MRC/RESOURCES.md)
-            - [ ] [`ARC`](Resources/iOS_Developer/Practical_knowledge/Memory_management/ARC/RESOURCES.md)
-                - [ ] [Weak references](Resources/iOS_Developer/Practical_knowledge/Memory_management/ARC/Weak_references/RESOURCES.md)
-            - [ ] [`Retain cycles`](Resources/iOS_Developer/Practical_knowledge/Memory_management/Retain_cycles/RESOURCES.md)
-            - [ ] [Garbage collection](Resources/iOS_Developer/Practical_knowledge/Memory_management/Garbage_collection/RESOURCES.md)
+            - [x] [`ARC`](Resources/iOS_Developer/Practical_knowledge/Memory_management/ARC/RESOURCES.md)
+                - [x] [Weak references](Resources/iOS_Developer/Practical_knowledge/Memory_management/ARC/Weak_references/RESOURCES.md)
+            - [x] [`Retain cycles`](Resources/iOS_Developer/Practical_knowledge/Memory_management/Retain_cycles/RESOURCES.md)
+            - [x] [Garbage collection](Resources/iOS_Developer/Practical_knowledge/Memory_management/Garbage_collection/RESOURCES.md)
             - [x] [`Memory leaks`](Resources/iOS_Developer/Practical_knowledge/Memory_management/Memory_leaks/RESOURCES.md)
             - [ ] [Shallow and deep copying](Resources/iOS_Developer/Practical_knowledge/Memory_management/Shallow_and_deep_copying/RESOURCES.md)
-            - [ ] [Autorelease pool](Resources/iOS_Developer/Practical_knowledge/Memory_management/Autorelease_pool/RESOURCES.md)
+            - [x] [Autorelease pool](Resources/iOS_Developer/Practical_knowledge/Memory_management/Autorelease_pool/RESOURCES.md)
         - [ ] [`Multithreading and concurrency`](Resources/iOS_Developer/Practical_knowledge/Multithreading_and_concurrency/RESOURCES.md)
             - [ ] [POSIX and NSThreads](Resources/iOS_Developer/Practical_knowledge/Multithreading_and_concurrency/POSIX_and_NSThreads/RESOURCES.md)
             - [ ] [Perform selector family](Resources/iOS_Developer/Practical_knowledge/Multithreading_and_concurrency/Perform_selector_family/RESOURCES.md)
-            - [ ] [`GCD`](Resources/iOS_Developer/Practical_knowledge/Multithreading_and_concurrency/GCD/RESOURCES.md)
+            - [x] [`GCD`](Resources/iOS_Developer/Practical_knowledge/Multithreading_and_concurrency/GCD/RESOURCES.md)
             - [x] [`NSOperation(Queue)`](Resources/iOS_Developer/Practical_knowledge/Multithreading_and_concurrency/NSOperation(Queue)/RESOURCES.md)
             - [ ] [`Runloop`](Resources/iOS_Developer/Practical_knowledge/Multithreading_and_concurrency/Runloop/RESOURCES.md)
             - [ ] [`Synchronization`](Resources/iOS_Developer/Practical_knowledge/Multithreading_and_concurrency/Synchronization/RESOURCES.md)
@@ -67,16 +67,16 @@ Tapping on a link will take you to relevant materials.
                 - [x] [`UIViewController`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/UIViewController/RESOURCES.md)
                     - [x] [`Lifecycle`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/UIViewController/Lifecycle/RESOURCES.md)
             - [ ] [`Foundation`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/RESOURCES.md)
-                - [ ] [`Notifications vs Delegation vs Observing`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/Notifications_vs_Delegation_vs_Observing/RESOURCES.md)
+                - [x] [`Notifications vs Delegation vs Observing`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/Notifications_vs_Delegation_vs_Observing/RESOURCES.md)
                 - [ ] [Collections](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/Collections/RESOURCES.md)
-                - [ ] [`Networking`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/Networking/RESOURCES.md)
-                - [ ] [`Serialization`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/Serialization/RESOURCES.md)
+                - [x] [`Networking`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/Networking/RESOURCES.md)
+                - [x] [`Serialization`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/Serialization/RESOURCES.md)
                     - [x] [NSCoding](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/Serialization/NSCoding/RESOURCES.md)
                     - [x] [`Codable`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/Serialization/Codable/RESOURCES.md)
                     - [x] [`JSON`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/Serialization/JSON/RESOURCES.md)
                     - [ ] [XML](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/Serialization/XML/RESOURCES.md)
                     - [ ] [Protobuf](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Foundation/Serialization/Protobuf/RESOURCES.md)
-            - [ ] [UserNotifications](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UserNotifications/RESOURCES.md)
+            - [x] [UserNotifications](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UserNotifications/RESOURCES.md)
             - [ ] [Core Location](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Core_Location/RESOURCES.md)
             - [ ] [Core Motion](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Core_Motion/RESOURCES.md)
             - [ ] [`Work in background mode`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/Work_in_background_mode/RESOURCES.md)
@@ -111,7 +111,7 @@ Tapping on a link will take you to relevant materials.
                     - [ ] Factory
                     - [ ] Abstract Factory
                     - [ ] Builder
-                    - [ ] Factory Method
+                    - [x] Factory Method
                     - [ ] Object Pool
                     - [ ] Prototype
                     - [x] [Singleton](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Creational/Singleton/RESOURCES.md)
@@ -147,7 +147,7 @@ Tapping on a link will take you to relevant materials.
             - [ ] [Carthage](Resources/iOS_Developer/Practical_knowledge/Dependencies_management/Carthage/RESOURCES.md)
             - [ ] [Swift Package Manager](Resources/iOS_Developer/Practical_knowledge/Dependencies_management/Swift_Package_Manager/RESOURCES.md)
         - [ ] Project structure and File/Group organisation
-        - [ ] `Version Control Systems`
+        - [x] `Version Control Systems`
             - [x] [`Git`](Resources/iOS_Developer/Practical_knowledge/Version_Control_Systems/Git/RESOURCES.md)
         - [ ] Debugging
             - [ ] [Instruments](Resources/iOS_Developer/Practical_knowledge/Debugging/Instruments/RESOURCES.md)
@@ -156,7 +156,7 @@ Tapping on a link will take you to relevant materials.
         - [ ] UX
         - [ ] `Caching and Persistency`
             - [ ] [Core Data](Resources/iOS_Developer/Practical_knowledge/Caching_and_Persistency/Core_Data/RESOURCES.md)
-            - [ ] [Realm](Resources/iOS_Developer/Practical_knowledge/Caching_and_Persistency/Realm/RESOURCES.md)
+            - [x] [Realm](Resources/iOS_Developer/Practical_knowledge/Caching_and_Persistency/Realm/RESOURCES.md)
             - [ ] YAPDatabase
         - [ ] `Testing`
             - [x] [`Unit Tests`](Resources/iOS_Developer/Practical_knowledge/Testing/Unit_Tests/RESOURCES.md)
@@ -168,10 +168,10 @@ Tapping on a link will take you to relevant materials.
             - [ ] Increase FPS
             - [ ] Decrease memory footprint
         - [ ] Code signing
-        - [ ] Tools
-            - [ ] IDE
-                - [ ] Xcode
-                    - [ ] [Interface Builder](Resources/iOS_Developer/Practical_knowledge/Tools/IDE/Xcode/Interface_Builder/RESOURCES.md)
+        - [x] Tools
+            - [x] IDE
+                - [x] Xcode
+                    - [x] [Interface Builder](Resources/iOS_Developer/Practical_knowledge/Tools/IDE/Xcode/Interface_Builder/RESOURCES.md)
             - [ ] Swiftlint
             - [ ] Sourcery
             - [ ] [Fastlane](Resources/iOS_Developer/Practical_knowledge/Tools/Fastlane/RESOURCES.md)
@@ -179,7 +179,7 @@ Tapping on a link will take you to relevant materials.
             - [ ] Jenkins
             - [ ] Xcode server
         - [ ] Security
-            - [ ] [Keychain](Resources/iOS_Developer/Practical_knowledge/Security/Keychain/RESOURCES.md)
+            - [x] [Keychain](Resources/iOS_Developer/Practical_knowledge/Security/Keychain/RESOURCES.md)
             - [ ] Security Transforms API
         - [ ] tvOS
             - [ ] [Focus interactions](Resources/iOS_Developer/Practical_knowledge/tvOS/Focus_interactions/RESOURCES.md)
